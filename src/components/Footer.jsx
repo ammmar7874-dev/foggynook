@@ -9,7 +9,7 @@ const Footer = () => {
 
                     {/* Brand Section */}
                     <div className="flex flex-col items-center md:items-start text-center md:text-left">
-                        <span className="text-3xl font-cinzel font-bold text-[var(--color-primary)] mb-2">Foggy Nook</span>
+                        <h2 className="text-3xl font-cinzel font-bold text-[var(--color-primary)] mb-2">Foggy Nook</h2>
                         <p className="text-sm text-gray-400 leading-relaxed max-w-xs">
                             Premium Vapes, Mods & Accessories. <br />
                             Experience luxury in every cloud.
